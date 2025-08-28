@@ -25,16 +25,18 @@ visual-question-answering/
 ├── src/ # Source code for main scripts and modules
 ├── .gitignore # Files and folders to ignore
 ├── LICENSE # MIT License
-└── README.md # This file
+├── README.md # This file
+├── Scripts/download_data.py
 
 
 ## 📅 Progress Log
 
 ### Week 1: Project Initiation & Literature Review
 - [x] Initialize project repository with structure.
-- [ ] Research and summarize key VQA papers.
-- [ ] Set up Python environment and core dependencies.
-- [ ] Perform initial data exploration.
+- [x] Research and summarize key VQA papers.
+- [x] Set up Python environment and core dependencies.
+- [x] Perform initial data exploration.
+
 
 ---
 
